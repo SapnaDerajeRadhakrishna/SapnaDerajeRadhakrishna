@@ -15,7 +15,7 @@ Having around 14 years of experience in software industry,
 - RedHat Delivery Specialist – Cloud Native Development (Jan 2020)
 - AWS certified developer – associate ( April 2020)
 
-#### My articles are published on http://www.sapnazealous.com
+#### My articles are published on www.sapnazealous.com
 
 <!--
 **SapnaDerajeRadhakrishna/SapnaDerajeRadhakrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
