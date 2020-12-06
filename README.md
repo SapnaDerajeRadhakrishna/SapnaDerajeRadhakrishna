@@ -1,7 +1,7 @@
 ### Hello 
 
 Having around 14 years of experience in software industry,
-- I'm a developer and a proficient and certified cloud developer with detail-oriented, highly-analytical, and multifaceted professional offering extensive background in the development of enterprise software applications including Microservices, in Java or J2EE technologies, and python technology stack.
+- I'm a proficient and certified cloud developer with detail-oriented, highly-analytical, and multifaceted professional offering extensive background in the development of enterprise software applications including Microservices, in Java or J2EE technologies, and python technology stack.
 - Primarily focused on back-end system architecture, design, and development for IoT solutions in AWS Extensive knowledge on containerization and orchestration using Docker and Kubernetes.
 - Extensive knowledge on DevOps working model including CI and CD.
 - Strong knowledge in the AGILE / Scrum methodologies.
